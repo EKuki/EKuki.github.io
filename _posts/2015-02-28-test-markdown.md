@@ -46,7 +46,7 @@ var foo = function(x) {
 foo(3)
 ```
 
-```{r three-plus-five, echo=TRUE}
+```r 
 3+5 # From the pound sign to the right, this is a comment. I am asking R to sum 3 plus 5
 ```
 
